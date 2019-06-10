@@ -1,0 +1,1282 @@
+{
+  "common": [
+    {
+      "ptf_Terminal": [
+        {
+          "skins": []
+        }, 
+        {
+          "help": [
+            {
+              "en_GB": [
+                {
+                  "md5": "fd632797a9adb10d068868f86a2b6951", 
+                  "name": "keno.html", 
+                  "required": true
+                }, 
+                {
+                  "md5": "4262186789c88657ddeaef6acbaaa45f", 
+                  "name": "roulette.html", 
+                  "required": true
+                }, 
+                {
+                  "md5": "2e480334d198ce3be300cbaa796d8dcf", 
+                  "name": "index.html", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "md5": "8f6ef3f09333fe11d39cdbc2da96ce6c", 
+              "name": "keno_paytables.json", 
+              "required": true
+            }
+          ]
+        }, 
+        {
+          "languages": [
+            {
+              "md5": "0c176a281d3317da2d551efb638cc0c5", 
+              "name": "terminal_en_GB.json", 
+              "required": true
+            }, 
+            {
+              "md5": "631e632c8193e3d9a237cf204d527ca0", 
+              "name": "terminal_es_ES.json", 
+              "required": true
+            }, 
+            {
+              "md5": "a6a9fc51dd5621cf4e0711df99fdaa4b", 
+              "name": "terminal_ge_GE.json", 
+              "required": true
+            }, 
+            {
+              "md5": "3afc16c1fe4a86324963dbcae952f4ec", 
+              "name": "terminal_nl_BE.json", 
+              "required": true
+            }, 
+            {
+              "md5": "621d5dc3c8b52a5a65ff1d58c23ba928", 
+              "name": "terminal_ru_RU.json", 
+              "required": true
+            }, 
+            {
+              "md5": "0adc134b385adcc47b27fe5fbfb2d8ba", 
+              "name": "terminal_sk_SK.json", 
+              "required": true
+            }, 
+            {
+              "md5": "3afc16c1fe4a86324963dbcae952f4ec", 
+              "name": "terminal_nl_NL.json", 
+              "required": true
+            }, 
+            {
+              "md5": "b7326a02c76d8a60839b35210ce5a972", 
+              "name": "terminal_fr_FR.json", 
+              "required": true
+            }
+          ]
+        }
+      ]
+    }
+  ], 
+  "fg": [
+    {
+      "skins": []
+    }, 
+    {
+      "common": [
+        {
+          "src": [
+            {
+              "fizzbuzz": [
+                {
+                  "md5": "7ecf215cac83f7a60cc8504a781b0ad2", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "campoDeMinas": [
+                {
+                  "md5": "964fb8cde5b87adade41eacaa75a1caa", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "math": [
+                {
+                  "md5": "102145ed3b5cf8b70fb84fc210ed01d7", 
+                  "name": "math.ts", 
+                  "required": true
+                }, 
+                {
+                  "md5": "3d96c1080192df1447dc568c68e79c07", 
+                  "name": "math.spec.ts", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "leapyear": [
+                {
+                  "md5": "af5349c5314dc8821cb464589a5851ab", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "lcd": [
+                {
+                  "md5": "ce8c68b50467ed4defe7db64f73dfaa3", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "stringCalculator": [
+                {
+                  "md5": "dd68099286ba33084fb164035d953dde", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "statistics": [
+                {
+                  "md5": "2eb6966f1dd04ea81f29ad688274cb05", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "fechas": [
+                {
+                  "md5": "fd7364a0e7cdb2f1010d38e9d7ded739", 
+                  "name": "problema.md", 
+                  "required": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
+  "p6": [
+    {
+      "common": [
+        {
+          "explosion": [
+            {
+              "md5": "cd986a8875c498f78ea61b8f3de57338", 
+              "name": "ball_explodes_generic_00022.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a9fc46b6bcae986f4c03a859e6797062", 
+              "name": "ball_explodes_generic_00025.png", 
+              "required": true
+            }, 
+            {
+              "md5": "7bbb1a3aa0bcd2ea1954e01a37cb46a4", 
+              "name": "ball_explodes_generic_00005.png", 
+              "required": true
+            }, 
+            {
+              "md5": "4be14e98291af4a3cc802dc03b24c609", 
+              "name": "ball_explodes_generic_00028.png", 
+              "required": true
+            }, 
+            {
+              "md5": "896a79ad86f06bd15e9d7a2fc9cd16d6", 
+              "name": "ball_explodes_generic_00012.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a7de5292bb8fa80583ac714f12a79453", 
+              "name": "ball_explodes_generic_00010.png", 
+              "required": true
+            }, 
+            {
+              "md5": "efa182a2e56bbc74d55ab78ccaddad5c", 
+              "name": "ball_explodes_generic_00001.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2e25505b937a21c96097c8f8c6c06573", 
+              "name": "ball_explodes_generic_00014.png", 
+              "required": true
+            }, 
+            {
+              "md5": "d7e75c9f07f745a6fad00557e1397272", 
+              "name": "ball_explodes_generic_00007.png", 
+              "required": true
+            }, 
+            {
+              "md5": "87ad56eda60354122ac446f22eb9abeb", 
+              "name": "ball_explodes_generic_00023.png", 
+              "required": true
+            }, 
+            {
+              "md5": "787dce35d5342d8674cc0ee79b716676", 
+              "name": "ball_explodes_generic_00000.png", 
+              "required": true
+            }, 
+            {
+              "md5": "547870bdf4e8cea16c8cb218320cfe51", 
+              "name": "ball_explodes_generic_00013.png", 
+              "required": true
+            }, 
+            {
+              "md5": "0c6411ffc0054a3c1f599a5bebefe754", 
+              "name": "ball_explodes_generic_00017.png", 
+              "required": true
+            }, 
+            {
+              "md5": "9c13091967089a6244e91caeb3d9e6d7", 
+              "name": "ball_explodes_generic_00024.png", 
+              "required": true
+            }, 
+            {
+              "md5": "43d95d32dd2acb905a1e3bb53e01bbcc", 
+              "name": "ball_explodes_generic_00004.png", 
+              "required": true
+            }, 
+            {
+              "md5": "043e0721462ce25269926bed3c439242", 
+              "name": "ball_explodes_generic_00002.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f8bff8efa7077548060fc85cbd9e42c4", 
+              "name": "ball_explodes_generic_00003.png", 
+              "required": true
+            }, 
+            {
+              "md5": "201bd7a2a88e9ad0b7dc4d08c78c9836", 
+              "name": "ball_explodes_generic_00027.png", 
+              "required": true
+            }, 
+            {
+              "md5": "698dd95e8f21f759250b064ba34bf18c", 
+              "name": "ball_explodes_generic_00018.png", 
+              "required": true
+            }, 
+            {
+              "md5": "b217eadfe6247cd18a4fe9076d08e6f9", 
+              "name": "ball_explodes_generic_00006.png", 
+              "required": true
+            }, 
+            {
+              "md5": "057060f2779089fdd878b42e4bdd4e47", 
+              "name": "ball_explodes_generic_00026.png", 
+              "required": true
+            }, 
+            {
+              "md5": "8a04b25c24639c006ee5cc2f95c585f1", 
+              "name": "ball_explodes_generic_00009.png", 
+              "required": true
+            }, 
+            {
+              "md5": "934790313532879d22de944083445ba8", 
+              "name": "ball_explodes_generic_00011.png", 
+              "required": true
+            }, 
+            {
+              "md5": "4dc16fe794705ae3d10927787d981e9a", 
+              "name": "ball_explodes_generic_00029.png", 
+              "required": true
+            }, 
+            {
+              "md5": "46c49fc1b728c368543379fe39a10fec", 
+              "name": "ball_explodes_generic_00019.png", 
+              "required": true
+            }, 
+            {
+              "md5": "b44e263e96132c39bd627c76dbc51f0a", 
+              "name": "ball_explodes_generic_00021.png", 
+              "required": true
+            }, 
+            {
+              "md5": "c49c7d6ebb950c066b151cf995934cb9", 
+              "name": "ball_explodes_generic_00015.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2e14067572cb9dd04c2a1e0deceb92bb", 
+              "name": "ball_explodes_generic_00008.png", 
+              "required": true
+            }, 
+            {
+              "md5": "1f9bff26b80a5e03acf36d6bfaf3785c", 
+              "name": "ball_explodes_generic_00016.png", 
+              "required": true
+            }, 
+            {
+              "md5": "6b8d86ba5dcbaa1641904faffda6cb4e", 
+              "name": "ball_explodes_generic_00020.png", 
+              "required": true
+            }
+          ]
+        }, 
+        {
+          "efectos": [
+            {
+              "bola": [
+                {
+                  "md5": "68cd029ef9b465bea95a8be50b169d45", 
+                  "name": "explosion_bola-rev-ballexplosion-01.mp3", 
+                  "required": true
+                }, 
+                {
+                  "md5": "8db7035410d22bce597d250baf52e77e", 
+                  "name": "salida_bola-ballfly-02.mp3", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "varios": [
+                {
+                  "md5": "bdc38c37a2b10b9f580bf6979072905a", 
+                  "name": "aparicion_panel-rev-ballopen-01.mp3", 
+                  "required": true
+                }, 
+                {
+                  "md5": "a717512baa6db9879863a6c1f49c1f61", 
+                  "name": "riseup_dong.mp3", 
+                  "required": true
+                }, 
+                {
+                  "md5": "90bba995c294105af92ae1d3b681a94d", 
+                  "name": "risers_01.mp3", 
+                  "required": true
+                }, 
+                {
+                  "md5": "d63d2508a58205ebdefe2cc548ec5edc", 
+                  "name": "dong.mp3", 
+                  "required": true
+                }, 
+                {
+                  "md5": "0ccb8eacaa9dff8f988b11429c11845d", 
+                  "name": "desaparicion_panel-rev-ballclose-01.mp3", 
+                  "required": true
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "musica": [
+            {
+              "main_game": [
+                {
+                  "md5": "ffcb487c3ac56833b4950c03c6c9a1a1", 
+                  "name": "011-tension001.mp3", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "main_game_results": [
+                {
+                  "md5": "e3990c7457d8ac8bd64fcab8c4fd794a", 
+                  "name": "011-results001.mp3", 
+                  "required": true
+                }
+              ]
+            }, 
+            {
+              "md5": "31ba809e2d63a88ab1b2d29cfc62d74a", 
+              "name": "011-ingamebonus001.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d2db6ed1733d5bbd7d41a0d04a062dc7", 
+              "name": "011-ingamebonus004.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "46d4ed369774871bb035bf66cd86d3aa", 
+              "name": "011-ingamebonus003.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "1e5702ceb744b9dff80744dc359d9f55", 
+              "name": "011-resultsbonus001.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "0860c32df94a834a832d2f61ee329511", 
+              "name": "011-results002.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "4ccd8201b92638f201d18874bdca25c8", 
+              "name": "011-panels002.mp3", 
+              "required": true
+            }, 
+            {
+              "main_game_paytable": [
+                {
+                  "md5": "f2fbdb1422551081c19827bc9f9b0e26", 
+                  "name": "011-panels001.mp3", 
+                  "required": true
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "intro": [
+            {
+              "md5": "f21a14955f2ade921333ca41bd0845c1", 
+              "name": "entrada_logo_aparicion-rev-perfectsixvoi-01.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "df375952094cf47249323c42879325b7", 
+              "name": "entrada_logo-jingle0052.mp3", 
+              "required": true
+            }
+          ]
+        }, 
+        {
+          "gamePanel": [
+            {
+              "md5": "aa7f55266a542e9c13a9ae6db4d9fb34", 
+              "name": "color_betting_bars_red_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "b035ae6db85bcc9fa71d41833d5357f6", 
+              "name": "perfect6-ball-nonumber_yellow.png", 
+              "required": true
+            }, 
+            {
+              "md5": "fff00d9f5d589a3a46f2983fe89a2f89", 
+              "name": "perfect6-column-blue.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f7b84a9511436ac3ad463bb8af45614c", 
+              "name": "perfect_six-results_square2_nobrights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a5acff3a3b54aa8051f36115f303af37", 
+              "name": "main_panel_bright2H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "16819661da41808eae3659e5becf7122", 
+              "name": "boxes_bright1.png", 
+              "required": true
+            }, 
+            {
+              "md5": "c1047af12c03a816d30dbe68870639f5", 
+              "name": "progressBarFillLeft.png", 
+              "required": true
+            }, 
+            {
+              "md5": "e3c90a3afc9972d167bc58ecb8aa5f49", 
+              "name": "main_panel_bright3.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3c9dda33ba7596918afd026d40ada966", 
+              "name": "perfect6-column-brown.png", 
+              "required": true
+            }, 
+            {
+              "md5": "7e7038b890c0fe4e0622beaf589fe5ff", 
+              "name": "perfect_six-results_square4_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "119629af84646c41242a9688529e2265", 
+              "name": "perfect6-header_left.png", 
+              "required": true
+            }, 
+            {
+              "md5": "d8485f3ca3848d3a7e0aaffb38d944b1", 
+              "name": "interface_background_full.png", 
+              "required": true
+            }, 
+            {
+              "md5": "1d02ac42efec16669d9b9531557affa9", 
+              "name": "perfect6-column-yellow.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f808be8d9838edfa1213b7ba7867af1b", 
+              "name": "perfect6-column-off.png", 
+              "required": true
+            }, 
+            {
+              "md5": "07428cc66d469a90bcbe0b8666172eec", 
+              "name": "perfect6-header_right2_jackpotonly.png", 
+              "required": true
+            }, 
+            {
+              "md5": "18a3a20b09b583d5a1f437e9450c7de9", 
+              "name": "color_betting_bars_black_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f9366e2c9460a22055acdf610aec5b74", 
+              "name": "perfect6-column-green.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f3277c78b92d74d7368ee6d1109cfe26", 
+              "name": "perfect6-header_right2.png", 
+              "required": true
+            }, 
+            {
+              "md5": "8fb2802ccb4ccca34c6e5e24f57175e5", 
+              "name": "boxes_bright3.png", 
+              "required": true
+            }, 
+            {
+              "md5": "af008a4c2909826d4fdbc87c3387a769", 
+              "name": "perfect6-ball-nonumber_purple.png", 
+              "required": true
+            }, 
+            {
+              "md5": "71f83387fe7a8c4e459c88c88fdd20a6", 
+              "name": "boxes_bright2H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "9147bae5bd6e3c9bb2c19797f1671398", 
+              "name": "odd_even_bar_fill.png", 
+              "required": true
+            }, 
+            {
+              "md5": "6606d558b48c4cddbc1b0ceb1d79be19", 
+              "name": "color_betting_bars_off.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a4ae7e209abb0a830ed367b82eb65c59", 
+              "name": "perfect6-ball-nonumber_orange.png", 
+              "required": true
+            }, 
+            {
+              "md5": "839e3b40c862ff858611d7739c169508", 
+              "name": "color_betting_bars_yellow_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "c3abb5eb3736ca9446c5b7e64e59d0ed", 
+              "name": "perfect6-column-naranja.png", 
+              "required": true
+            }, 
+            {
+              "md5": "0b8975d8b827f67c91d040c9bf5086a9", 
+              "name": "progressBarFillCenter.png", 
+              "required": true
+            }, 
+            {
+              "md5": "0753d5d8e4c8b40248e27bd31f12fe2b", 
+              "name": "unnamed.gif", 
+              "required": true
+            }, 
+            {
+              "md5": "9c46693213aaaaa76017e7dca51fd7d3", 
+              "name": "perfect6-header_right1_jackpotonly.png", 
+              "required": true
+            }, 
+            {
+              "md5": "42dc59e01637e3986de6e51e1bc4d05e", 
+              "name": "jackpot.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2b07ffde0835260e12f2967ff4e906fe", 
+              "name": "boxes_bright2.png", 
+              "required": true
+            }, 
+            {
+              "md5": "8b8c439c63db94eaee4af4107fe8c5d9", 
+              "name": "perfect_six-results_square1_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "bf2cab64330b6262613b7dc1f07bfecf", 
+              "name": "p6_loading_splash.png", 
+              "required": true
+            }, 
+            {
+              "md5": "c13829bf3bd860f8ab7ba7fa81b6e73e", 
+              "name": "perfect6-header_background.png", 
+              "required": true
+            }, 
+            {
+              "md5": "f04283fb4e61050747cf3b5b7b50d84c", 
+              "name": "perfect_six-results_square1_nobrights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "23e2e18dce7d77d7f575f9e04fd56c65", 
+              "name": "5balls_container.png", 
+              "required": true
+            }, 
+            {
+              "md5": "76343c48b550d552dee2ba8ddcdb39bc", 
+              "name": "progressBarBgright.png", 
+              "required": true
+            }, 
+            {
+              "md5": "cb1d588c5f968152bcdc00db4f7e6870", 
+              "name": "progressBarBgLeft.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3791ab972a31ad828256f678885900fe", 
+              "name": "interface_background_results_no_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "9ac62cd2993d9cb47601ed7f061dce7f", 
+              "name": "progressBarFillRight.png", 
+              "required": true
+            }, 
+            {
+              "md5": "61f7b91ea2da55cc936f816cc18055ff", 
+              "name": "perfect_six-results_square2_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "e5262d16e79ab6661ed96d2978dceb42", 
+              "name": "megajackpot.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a3aa085bc3a827df6929c31bd27a5350", 
+              "name": "ball_container_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "679294a3ef3e9103b4806836b8ecffaf", 
+              "name": "perfect6-column-black.png", 
+              "required": true
+            }, 
+            {
+              "md5": "a1c3a45fd65e2c6391a8059f7baa1e69", 
+              "name": "boxes_bright1H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "8558ad96e2d8ff7ecb981e3dae302dd0", 
+              "name": "main_panel_bright3H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "1c33ff2b2645d43d8f60ba9c8c4a771d", 
+              "name": "odd_even_bar_bkg.png", 
+              "required": true
+            }, 
+            {
+              "md5": "40b04476bdf2ead34f95f6539fa5dfe7", 
+              "name": "perfect6-header-bright.png", 
+              "required": true
+            }, 
+            {
+              "md5": "b05acfefd80042ecc2236e5f7a33ee2a", 
+              "name": "boxes_bright3H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "08250ca81e118ec86d2d446554fbb201", 
+              "name": "color_betting_bars_green_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "af46940860a993990df86a1caca71cbf", 
+              "name": "footer_container_right.png", 
+              "required": true
+            }, 
+            {
+              "md5": "5be1f6af14fbc325152626ea9c6df3ea", 
+              "name": "color_betting_bars_orange_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2a303307dc2b96eb116576bdf01888a6", 
+              "name": "color_betting_bars_blue_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "ac0e0d3ecb9fb14c12674743125f00c3", 
+              "name": "perfect6-ball-nonumber_green.png", 
+              "required": true
+            }, 
+            {
+              "md5": "6146dbc978a98eeeb20b9230fbc589e4", 
+              "name": "perfect6-header_right1.png", 
+              "required": true
+            }, 
+            {
+              "md5": "62c823084c14e6a63baa83e487a76cbd", 
+              "name": "interface_background_results_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "7371409c0ab03d06e0450e19e21e71f0", 
+              "name": "perfect_six-results_square3_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "d3c2661b606a24747ded27fd4f78505d", 
+              "name": "ball_container_special_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "7c56aae83af66bc612834b8505e4fe0f", 
+              "name": "perfect6-ball-nonumber_brown.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3bedfe6a24e1a0ae252600452451139d", 
+              "name": "interface_background_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "235199191050473e72be38b936912777", 
+              "name": "perfect_six-results_square3_nobrights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "99f18bd006b5e833b0d1cad291429b94", 
+              "name": "footer_container_fill.png", 
+              "required": true
+            }, 
+            {
+              "md5": "9422f5934d4a577a05be21afb175ad13", 
+              "name": "perfect6-ball-nonumber_black.png", 
+              "required": true
+            }, 
+            {
+              "md5": "5b96af1c4defa0000204017fc0844f00", 
+              "name": "perfect6-column-purple.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3942269b205e6d6d8090a9e1b55e4fdf", 
+              "name": "ball_container_special_off.png", 
+              "required": true
+            }, 
+            {
+              "md5": "58d87227437b115fc4d84fe4876e442b", 
+              "name": "color_betting_bars_purple_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "dba92b5c173bfd394d891001c4eb1bdb", 
+              "name": "color_betting_bars_brown_on.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3c4b59af612ac21e2c6acf77fbed8534", 
+              "name": "main_panel_bright2.png", 
+              "required": true
+            }, 
+            {
+              "md5": "30ca4728c85e06e4b3f1ae3ab9cdb930", 
+              "name": "interface_background_no_brights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "5acaa2c8b8def40965dbec5736e568f1", 
+              "name": "progressBarBgFill.png", 
+              "required": true
+            }, 
+            {
+              "md5": "3745033210088caa04680e0c4729b8a8", 
+              "name": "perfect6-column-red.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2d858d05c2f6ad8860fdf481b4a90336", 
+              "name": "perfect6-ball-clover.png", 
+              "required": true
+            }, 
+            {
+              "md5": "998395e1e9654811a4e0c68269c2f3c6", 
+              "name": "main_panel_bright1.png", 
+              "required": true
+            }, 
+            {
+              "md5": "70250295a0532a737d29125990a43ef2", 
+              "name": "ball_container_results_color.png", 
+              "required": true
+            }, 
+            {
+              "md5": "2c7caa75972a0d0ff1bbaf476eb10108", 
+              "name": "main_panel_bright1H.png", 
+              "required": true
+            }, 
+            {
+              "md5": "781d7377c89878f34e1181405f5f5936", 
+              "name": "perfect_six-results_square4_nobrights.png", 
+              "required": true
+            }, 
+            {
+              "md5": "44a04f2f662946591018b5fcafbd5efd", 
+              "name": "footer_container_left.png", 
+              "required": true
+            }, 
+            {
+              "md5": "e82fe512f8046f0e1f666ccd76ec7e90", 
+              "name": "footer_container.png", 
+              "required": true
+            }, 
+            {
+              "md5": "834ed8854d5228992c1cabc4d1c6655a", 
+              "name": "footer_container_big.png", 
+              "required": true
+            }, 
+            {
+              "md5": "1713e5f40119a1b54a0e7f2171c55d46", 
+              "name": "perfect6-ball-nonumber_blue.png", 
+              "required": true
+            }, 
+            {
+              "md5": "7af0506f8ca4aa343a8f5397c69a7c43", 
+              "name": "ball_container_off.png", 
+              "required": true
+            }, 
+            {
+              "md5": "183a2957ed00c1a2ebe0184cd2ae9c9d", 
+              "name": "perfect6-ball-nonumber_red.png", 
+              "required": true
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "lang": [
+        {
+          "en": [
+            {
+              "md5": "f18e44185288837495f9af1274471855", 
+              "name": "en18.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "a5b7d36d601113956a3dae0a88ea0bd6", 
+              "name": "en29.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "a9c29b3f469c7649f3cb757f79336e3a", 
+              "name": "en57.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "b22b440803e6421ff9b79961d81ee30c", 
+              "name": "en21.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "47649563a429b8b5fd2a9dc77da00e45", 
+              "name": "en27.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "09de8de77bb11dd3e6434222b98c7231", 
+              "name": "en01.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "bb01f3c7f4ea60a37df6cf86a6ae7691", 
+              "name": "en12.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d8acc640044105a67ba5b8bdc5df97d8", 
+              "name": "en77.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "bf13884e23fbeb5a150e305afe9cb060", 
+              "name": "en08.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c7e46d9d2b55cc9026de2f3bccb10945", 
+              "name": "en38.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "0ed62a228fb5d18042589723a2254bae", 
+              "name": "en24.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "df83c4c5d8f7e227915999003ea6075c", 
+              "name": "en51.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "5ff6b5d82b3899e63f4c7952f70750ba", 
+              "name": "en58.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "63fc75170da26677a9adcd8b63ef2d5b", 
+              "name": "en56.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "fc5f34350933d9f8ff6a851c22db8ba7", 
+              "name": "en26.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c6e6b06f7923c98ae6d5d7437df2d243", 
+              "name": "en40.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "b62119fb5312159885f30f3fc7978baa", 
+              "name": "en23.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d7229fe4493e7ba8f9c42e95d73c366f", 
+              "name": "en32.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "f6fbf966823808bf67c0a4e2d0d14039", 
+              "name": "en04.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "ec5671d5a1fb8120bd105d22a536ac7a", 
+              "name": "en64.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "35658318125e3911c7e4342aaf70d897", 
+              "name": "en19.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "a48d0d6bbdd3159c90ad6a81174c9a2f", 
+              "name": "en05.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c8f5524dec001f470c529693043b0105", 
+              "name": "en02.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "6506066fd0555f499605ac27874ea246", 
+              "name": "en43.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "881938bba7860de5982e9ff9ff5a8c00", 
+              "name": "en39.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "4d02fed0f3e884589a24756d554a5f62", 
+              "name": "en55.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "7f00c270ebddd279174fd8657c987c26", 
+              "name": "en16.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "f280af6b520ce49f4c8fe1c073d47da6", 
+              "name": "en45.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "e26179dc0f63c3df63ffd6def2cb7f5e", 
+              "name": "en49.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "633b6adb95e48d9004d64ffb04e8d9eb", 
+              "name": "en42.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "3d8489c4a12e5a54c7e6816a8937613f", 
+              "name": "en80.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "10360122a95f4c39b7536148f0a15b91", 
+              "name": "en73.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "69bdb096c4b91e4d2e042b27ce264bea", 
+              "name": "en61.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "359f8bd5838018bac639e2f1e62a469f", 
+              "name": "en28.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "1f339625f83c1dd7e3f910a1e39f9d3c", 
+              "name": "en22.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "67af7f2184bc6d3e5f0bb65154ae3731", 
+              "name": "en54.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c2579dd3f384bca480312e36954a1c06", 
+              "name": "en66.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "aeab346228601d4ce3e86f351555b43d", 
+              "name": "en76.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "da92dbb2aba741fbb3b563e9f37258f7", 
+              "name": "en07.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "e8c0e7a7e070730dd94071b79467bc2d", 
+              "name": "en33.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d8cb10735cdc853a8b91aeb01999362b", 
+              "name": "en53.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "4f2c900ec10e26f3073877f2da30880b", 
+              "name": "en14.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "09a27bf553d7aca2e891e8f55475af13", 
+              "name": "en68.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "faba7698f799c2bf88aabea92d4093f9", 
+              "name": "en71.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "025635f3ac4cc17b7865db04bf775d07", 
+              "name": "en41.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "8983a6b94a00b9557c907aee2d3eb4f8", 
+              "name": "en69.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c142403f068f2d559abf26259377cf63", 
+              "name": "en03.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "7151afdd1cea6a46b88f516da24d0b0d", 
+              "name": "en70.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "05b75d3de9115faac02c35407d3bf282", 
+              "name": "en47.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "bf972a7e039eafa0aa11e4d92f450678", 
+              "name": "en63.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "78f8e392f74f42dca7d02606383045fe", 
+              "name": "en52.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "6061e089c7186b59b8cc879f814f64f1", 
+              "name": "en65.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "52fe03ac0c61d4a1e61517262f9bb53b", 
+              "name": "en06.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "ee346fd84e0e54eb462058aa3aac7481", 
+              "name": "en72.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "6b2f7ea0773b99110fd67589af3af48e", 
+              "name": "en60.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "c26d50a3655abf4056c862cdc88a3ea4", 
+              "name": "en10.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "6ad7eb2eb32d794fbbaedac388e9f9fb", 
+              "name": "en17.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "147c377cdf2c0093d2ca55f877ac9c48", 
+              "name": "en79.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "4cfac443ac2dea89f5f40edbfa968347", 
+              "name": "en75.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "8fa4be0612f4fd5e39aed4d0111949a2", 
+              "name": "en67.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "3760351c3fd684d771eec02e337e57fa", 
+              "name": "en13.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "37dc91dd26a5b3779b5f8c355c30e672", 
+              "name": "en35.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "342585942e63efe9f99789d4d20b52a5", 
+              "name": "en15.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "0909010d0ada8d3b6cab77f6dcd6d4a1", 
+              "name": "en62.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "f9fc92f455b32214e7e4017d71fff687", 
+              "name": "en20.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d54dbe2451bfa2ee57ff5cb3b5aca166", 
+              "name": "en31.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "e5a8ede0586b667aefca4df8c62124c7", 
+              "name": "en09.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "ce32d0b449c216866ccd36818c34fcb0", 
+              "name": "en36.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "4b97f54a78620ac56f4bfa7db452c676", 
+              "name": "en74.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "18bac655a9c025098d993c8d509f9b4e", 
+              "name": "en59.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "6cb7ae1b6b240c70884d124c1d08eede", 
+              "name": "en30.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "7f8c70624d2a7a2bef275b5dd1980ad5", 
+              "name": "en78.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "0061f2b6a16cd8ff9fee85525a8c6d42", 
+              "name": "en44.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "42d4b4f1921a92a32fb6b1785cc31e2e", 
+              "name": "en11.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "f636fd4187baf16d74910600d987af7c", 
+              "name": "en25.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "bfd857c2b9a6c7a3f93405c77786d3a8", 
+              "name": "en50.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "b215bf9563c425e8e1f518c11823fbfd", 
+              "name": "en46.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "d0028aa4d50b07430dcca74c2dc4fd2a", 
+              "name": "en37.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "bd5dd4e7ba8800583ce9f9974f1451bd", 
+              "name": "en48.mp3", 
+              "required": true
+            }, 
+            {
+              "md5": "b8c794d47b3a43b4a23ae806effcac64", 
+              "name": "en34.mp3", 
+              "required": true
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "md5": "8cbb697dc119f9f15a2764a8dddcd5d9", 
+      "name": "staticAssets.json", 
+      "required": true
+    }
+  ]
+}
